@@ -7,3 +7,8 @@ step การติดตั้ง :
  * ให้เข้าไป config database ที่ path /application/config/database.php
  * user : user1 , pass  : 1234 => สำหรับ user
  * user : admin , pass  : 1234 => สำหรับ admin
+
+#  (Require)
+ 
+ *  > php 5.6 
+ * php extenstion GD เพื่อ export pdf
