@@ -10,5 +10,5 @@ step การติดตั้ง :
 
 #  (Require)
  
- *  > php 5.6 
+ *  php 5.6 หรือมากกว่า 
  * php extenstion GD เพื่อ export pdf
